@@ -1,0 +1,208 @@
+#body{
+    background-color: rgb(245, 197, 213);
+    padding: 100px;
+    
+    
+    
+}
+.navigator{
+    background-color: aliceblue;
+    overflow: hidden;
+    text-align: center;
+    font-size: small;
+    padding: 10px 17px;
+}
+
+
+#form{
+    background-color:white;
+    padding: 90px;
+    
+    
+}
+#text{   
+    font-size: x-large;
+    font-style: normal;
+    
+}
+#h2{
+    text-align: left
+}
+#image1{
+    height: 520px;
+    width: 700px;
+    display: flex;
+    position: relative;
+    top: -220px;
+    right: -380px;
+    
+}
+#image2{
+    height: 200px;
+    width: 100px;
+}
+#button{
+    background-color: blue;
+    color: aliceblue;
+    font-size: small;
+    align-items: end;
+}
+#p{
+    color: rgb(226, 82, 106);
+
+}
+.head1{
+    font-size: x-large;
+
+}
+#animation{
+    height: 50px;
+    width: 80px;
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: gray;
+    
+    
+    
+
+}
+#img{
+    display: flex;
+    align-items: baseline;
+    background-color: aliceblue;
+    top: -10px;
+    margin-top: -5%;
+}
+#word{
+    background-color: aliceblue;
+
+}
+#h3{
+    top: -10;
+}
+#dot{
+color: rgb(245, 7, 47);
+font-size: xx-large;
+}
+#image3{
+    background-color: rgb(240, 248, 255);
+    height: 150px;
+    width: 150px;
+    color: rgb(12, 11, 11);
+    display: flex;
+    align-items: baseline;
+    text-align: right;
+    justify-content: space-between;
+    
+}
+#samsung{
+    height: 300px;
+  width: 400px;
+}
+#division{
+    height: 150px;
+    width: 100px;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#box{
+    background-color: rgb(235, 183, 192);
+    padding: 2%;
+    
+
+}
+#wkd{
+    color: rgb(238, 80, 106);
+    font-size: large;
+}
+.button{
+    background-color: blue;
+    color: blue;
+    width: 2%;
+    height: 1px;
+    padding: 20px;
+    border: solid 1px;
+    border-radius: 10%;
+}
+#picha{
+    height: 170px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    right: -100px;
+    margin-bottom: 3%;
+}
+#del{
+    height: 10px;
+    width: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 60px;
+    color: gray;
+    text-align: center;
+    
+
+}
+#electro{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0%;
+}
+#get{
+    padding: 14%;
+    margin-top: 3px;
+}
+#picture{
+    height: 20px;
+    width: 150px;
+}
+#location{
+    height: 25px;
+    width: 30px;
+}
+#terms{
+    text-align: right;
+    color: gray;
+}
+#new{
+    height: 25px;
+    width: 40px;
+    text-align: left;
+    justify-content: space-between;
+    margin: 8px;
+    
+}
+#sub{
+text-align:center;
+background-color: blue;
+border: solid  2px;
+color: white;
+border-radius: 15px;
+width: 200px;
+height: 40px;
+justify-content: end;
+float: right;
+
+}
+#shop{
+    background-color: blue;
+border: solid  2px;
+color: white;
+border-radius: 5px;
+width: 100px;
+height: 100px;
+
+}
+#css{
+    height: 65px;
+    width: 90px;
+}
+#wave{
+    height: 45px;
+    width: 90px;
+    text-align: left;
+}
