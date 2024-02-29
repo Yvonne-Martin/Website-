@@ -111,7 +111,8 @@ font-size: xx-large;
 }
 #box{
     background-color: rgb(235, 183, 192);
-    padding: 2%;
+    padding: 3%;
+    height: 90%;
     
 
 }
@@ -205,4 +206,24 @@ height: 100px;
     height: 45px;
     width: 90px;
     text-align: left;
+}
+#Samsung{
+    display: flex;
+
+}
+#move{
+    margin-left: 20%;
+}
+#changes{
+    margin-top: 0 auto;
+}
+#src{
+    float: inline-end;
+    
+}
+#faded{
+    color: gray;
+}
+#sst{
+    float: right;
 }
